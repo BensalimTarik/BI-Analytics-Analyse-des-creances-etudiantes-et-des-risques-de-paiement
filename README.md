@@ -16,27 +16,27 @@ The solution is organized into five analytical dashboards:
 <table>
   <tr>
     <td align="center">
-      <img src="Dashboard-Preview/1 - Executive Financial Overview.jpg" width="100%" alt="Executive Financial Overview"/>
+      <img src="Dashboard-Preview/1 - Aperçu financier de direction.jpg" width="100%" alt="Executive Financial Overview"/>
       <br/><b>1. Executive Financial Overview</b><br/><i>Aperçu financier de direction</i>
     </td>
     <td align="center">
-      <img src="Dashboard-Preview/2 - Receivables and Payment Schedule.jpg" width="100%" alt="Receivables and Payment Schedule"/>
+      <img src="Dashboard-Preview/2 - Créances et échéancier.jpg" width="100%" alt="Receivables and Payment Schedule"/>
       <br/><b>2. Receivables and Payment Schedule</b><br/><i>Créances et échéancier</i>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Dashboard-Preview/3 - Collection Performance.jpg" width="100%" alt="Collection Performance"/>
+      <img src="Dashboard-Preview/3 - Performance de recouvrement.jpg" width="100%" alt="Collection Performance"/>
       <br/><b>3. Collection Performance</b><br/><i>Performance de recouvrement</i>
     </td>
     <td align="center">
-      <img src="Dashboard-Preview/4 - Unpaid Risk Segmentation.jpg" width="100%" alt="Unpaid Risk Segmentation"/>
+      <img src="Dashboard-Preview/4 - Segmentation des risques d'impayé.jpg" width="100%" alt="Unpaid Risk Segmentation"/>
       <br/><b>4. Unpaid Risk Segmentation</b><br/><i>Segmentation des risques d'impayé</i>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="Dashboard-Preview/5 - Data Reconciliation.jpg" width="50%" alt="Data Reconciliation"/>
+      <img src="Dashboard-Preview/5 - Rapprochement des données.jpg" width="50%" alt="Data Reconciliation"/>
       <br/><b>5. Data Reconciliation</b><br/><i>Rapprochement des données</i>
     </td>
   </tr>
