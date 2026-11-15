@@ -44,19 +44,65 @@ The solution is organized into five analytical dashboards:
 
 ## Key Figures
 
-> Replace the values below with the figures shown in your dashboards (and keep only anonymized or demo data in a public repository).
+Figures as shown in the dashboards at the last data refresh (11 November 2026, 14:01). Student and invoice identifiers are anonymized (e.g. `STU000001`, `FAC0000001`).
+
+### Financial overview
 
 | Indicator | Value |
 |---|---:|
-| Total outstanding balance | _to be completed_ |
-| Overdue unpaid rate | _to be completed_ |
-| Receivables aged 0–30 days | _to be completed_ |
-| Receivables aged 31–60 days | _to be completed_ |
-| Receivables aged 61–90 days | _to be completed_ |
-| Receivables aged > 90 days | _to be completed_ |
-| Average payment delay (days) | _to be completed_ |
-| Collection rate | _to be completed_ |
-| Students flagged as high late-payment risk | _to be completed_ |
+| Total invoiced | 366.96 M€ |
+| Total collected | 345.82 M€ |
+| Total outstanding balance | 21.14 M€ |
+| Overdue outstanding balance | 19.70 M€ |
+| Overdue unpaid rate | 5.40 % |
+| Overdue collection rate | 94.60 % |
+| Open invoices | 17 K |
+| Overdue invoices | 16 K |
+
+### Receivables aging
+
+| Indicator | Value |
+|---|---:|
+| Not yet due | 1.44 M€ |
+| 0–30 days | 3.7 M€ |
+| 31–60 days | 2.14 M€ |
+| 61–90 days | 42.75 K€ |
+| > 90 days | 13.79 M€ |
+| Overdue share of outstanding balance | 93.19 % |
+| Share of outstanding balance overdue by more than 60 days | 65.45 % |
+
+### Collection performance
+
+| Indicator | Value |
+|---|---:|
+| Total reminders sent | 200 K |
+| Invoices with at least one reminder | 80 K |
+| Amount collected after due date | 155.01 M€ |
+| Average payment time | 24 days |
+| Average payment delay | 28 days |
+| Favorable reminder outcome rate | 54.93 % |
+| Reminders per invoice | 2.50 |
+| Invoices settled after a reminder | 80.25 % |
+
+### Payment risk
+
+| Indicator | Value |
+|---|---:|
+| Average outstanding balance per open invoice | 1.21 K€ |
+| Unpaid rate by number of installments | 7.25 % |
+| Outstanding concentration, top 5 schools | 57.01 % |
+| Largest payer type by outstanding balance | Family (7.7 M€) |
+
+### Data reconciliation
+
+| Indicator | Value |
+|---|---:|
+| Invoices | 223 K |
+| Payments | 222 K |
+| Reminders | 200 K |
+| Financial reconciliation gap | 3.42E-5 |
+| Aging distribution gap | 1E-8 |
+| Last refresh | 11/11/2026 at 14:01 |
 
 ## Main Analytical Areas
 
